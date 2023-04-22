@@ -19,7 +19,7 @@ public static void main(String[] args) throws EmailException {
 		email.setFrom("dineshkumarbn05@gmail.com");
 		email.setSubject("Alert");
 		email.setMsg("Your Account is hacked by a great hacker @007");
-		email.addTo("madhanmicky1812@gmail.com");
+		email.addTo("kavipriya.pazhani@aroopatech.com");
 		email.send();
 	System.out.println("email sent");
 
