@@ -29,22 +29,12 @@
 					 amazon.xml
 				  </suiteXmlFile>
 			  </suiteXmlFiles>
-	
-
-	
-	
-			  
+		  
 		  </configuration>
         
-         
-         
-         
-         
-         
-         
+           
         </plugin>
   
-     
     </plugins>
     
   
