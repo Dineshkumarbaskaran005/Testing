@@ -38,5 +38,7 @@
 	<classpathentry kind="lib" path="C:/Users/DineshKumar.Baskaran/Downloads/MailJars/activation.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DineshKumar.Baskaran/Downloads/MailJars/javax.mail.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DineshKumar.Baskaran/Downloads/MailJars/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DineshKumar.Baskaran/Downloads/maven-artifact-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DineshKumar.Baskaran/Downloads/selenium-java-4.9.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
